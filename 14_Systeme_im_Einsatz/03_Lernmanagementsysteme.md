@@ -3,7 +3,9 @@
 <!-- filename: 03_Lernmanagementsysteme.md -->
 <!-- title: Lernmanagementsysteme -->
 
-Durch die steigenden Bedürfnisse der WBT nach gezielter Benutzer/innen-Verwaltung oder einer allumfassenden Umgebung wurde um die Jahrtausendwende begonnen, sogenannte Lernmanagementsysteme (engl.‚ learning management system‘, LMS) zu programmieren.
+<!-- revisors: Eva Benedikt -->
+
+Durch die steigenden Bedürfnisse der WBT nach gezielter Benutzer/innen-Verwaltung oder einer allumfassenden Umgebung wurde um die Jahrtausendwende begonnen, sogenannte Lernmanagementsysteme (engl. ‚learning management system‘, LMS) zu programmieren.
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
@@ -23,7 +25,7 @@ Bäumer et al. (2004) beschreibt drei wesentliche Säulen von Lernmanagementsyst
 - administrative Unterstützung von Lehrenden (zum Beispiel bei Abgaben, Terminen)
 - Kommunikationswerkzeuge für Lehrende und Lernende
 
-Wenngleich LMS eine Fülle von Funktionen haben, ist ihr praktischer Einsatz häufig auf die Bereitstellung der Unterrichtsmaterialien der Lehrenden reduziert. Nach wie vor ist der Funktionsumfang, der diese Software charakterisiert, in sta ndigem Wandel. Auch sind in den konkreten Produkten nicht alle Funktionsbereiche im gleichen Umfang vorhanden, bzw. kann in ̈ einigen Fällen die eine oder andere Kategorie fehlen. Um die Systeme zu unterscheiden, werden auch weitere Bezeichnungen verwendet. So werden LMS, die auch Werkzeuge zur Erstellung und Anpassung von Lerninhalten integrieren, auch als Learning-Content- Management-System (LCMS) bezeichnet. In nahezu jeder Hochschule in Mitteleuropa sowie in vielen Schulen und Bildungseinrichtungen werden derzeit LMS eingesetzt. Recherchiert man LMS, findet man mehrere Hunderte, die LMS anbieten. Im Open-Source-Bereich gibt es allein mehr als 50 Projekte, die aktuell LMS entwickeln und offerieren. Zu den am weitesten verbreiteten gehören hier die beiden Open-Source-Produkte Moodle und Ilias. Blackboard ist das weltweit größte kommerziell anbietende Unternehmen.
+Wenngleich LMS eine Fülle von Funktionen haben, ist ihr praktischer Einsatz häufig auf die Bereitstellung der Unterrichtsmaterialien der Lehrenden reduziert. Nach wie vor ist der Funktionsumfang, der diese Software charakterisiert, in ständigem Wandel. Auch sind in den konkreten Produkten nicht alle Funktionsbereiche im gleichen Umfang vorhanden, bzw. kann in einigen Fällen die eine oder andere Kategorie fehlen. Um die Systeme zu unterscheiden, werden auch weitere Bezeichnungen verwendet. So werden LMS, die auch Werkzeuge zur Erstellung und Anpassung von Lerninhalten integrieren, auch als Learning-Content- Management-System (LCMS) bezeichnet. In nahezu jeder Hochschule in Mitteleuropa sowie in vielen Schulen und Bildungseinrichtungen werden derzeit LMS eingesetzt. Recherchiert man LMS, findet man mehrere Hunderte, die LMS anbieten. Im Open-Source-Bereich gibt es allein mehr als 50 Projekte, die aktuell LMS entwickeln und offerieren. Zu den am weitesten verbreiteten gehören hier die beiden Open-Source-Produkte Moodle und Ilias. Blackboard ist das weltweit größte kommerziell anbietende Unternehmen.
 
 ## Auswirkungen auf die Gestaltung des Lernens und Lehrens
 
@@ -33,9 +35,9 @@ Wie einführend dargestellt, limitieren und gestalten Technologien das Lernen un
 
 Die aktuell dominanten Theorien und erwünschten Konzepte (siehe Kapitel #lerntheorie) guten Lehrens stellen die Eigenaktivität der Lernenden und damit eigenständige Konstruktion und Diskussionen zum Lerngegenstand in den Vordergrund, bei denen die Lehrperson nicht primär als Experte oder Expertin des Fachs, sondern vor allem als Unterstützer/in des Lernens tätig ist. Schneider (2003) argumentiert so für die Unterstützung einer aktivitätsbasierten Pädagogik und kritisiert klassische E-Learning-Technologien wie LMS.
 
-Er weist darauf hin, dass diese eine behavioristische Tradition fortsetzen und eine Praxis der klassischen Wissensübertragung fördern: Der Zugang zu Informationen, Wissen und auch der Kontakt zu Gleichgesinnten ist in LMS in der Praxis limitiert und nur durch Vermittlung von Institutionen und Autorita ten erreichbar, die wiederum darüber Prüfungen abnehmen.
+Er weist darauf hin, dass diese eine behavioristische Tradition fortsetzen und eine Praxis der klassischen Wissensübertragung fördern: Der Zugang zu Informationen, Wissen und auch der Kontakt zu Gleichgesinnten ist in LMS in der Praxis limitiert und nur durch Vermittlung von Institutionen und Autoritäten erreichbar, die wiederum darüber Prüfungen abnehmen.
 
-In einer Zusammenfassung der Kritik an LMS von Siemens (2004) wird zudem darauf verwiesen, dass zentralisierte, monolithische Systeme nur wenig didaktische Variation erlauben. Dalsgaard (2006) kritisiert besonders die geringe Flexibilität, die bei der Nutzung eines LMS gegeben ist und sieht dringenden Bedarf, ̈ Lernenden mehr Freiräume bei der Auswahl von Kommunikations- und Interaktionswerkzeugen zu ermöglichen.
+In einer Zusammenfassung der Kritik an LMS von Siemens (2004) wird zudem darauf verwiesen, dass zentralisierte, monolithische Systeme nur wenig didaktische Variation erlauben. Dalsgaard (2006) kritisiert besonders die geringe Flexibilität, die bei der Nutzung eines LMS gegeben ist und sieht dringenden Bedarf, Lernenden mehr Freiräume bei der Auswahl von Kommunikations- und Interaktionswerkzeugen zu ermöglichen.
 
 In den letzten Jahren hat die Verbreitung der Nutzung von sozialen Netzwerksystemen und die Entwicklung von zahlreichen Webanwendungen, welche die Kommunikation und die Kollaboration von Lernenden unterstützen können, zu ihrer zunehmenden Integration bzw. der Einführung von Schnittstellen zu solchen Angeboten in LMS geführt.
 
