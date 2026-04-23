@@ -3,6 +3,10 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
+<!-- revisor: Eva Benedikt-->
+
+- Alshahrani, K., & Qureshi, R. J. (2024). Review the prospects and obstacles of AI-enhanced learning environments: the role of ChatGPT in education. In: International Journal of Modern Education and Computer Science, 16(4), 71-86.
+
 - Baumgartner, P.; Häfele, H. & Maier-Häfele, K. (2002). Evaluierung von Lernmanagement-Systemen (LMS): Theorie – Durchführung – Ergebnisse. In: A. Hohenstein, & K. Wilbers, Handbuch E-Learning. Köln: Deutscher Wirtschaftsdienst. URL: [http://www.medidaprix.org/medida-prix/hintergrundartikel-medida-](http://www.medidaprix.org/medida-prix/hintergrundartikel-medida-) prix/evaluierung-von-lernmanagement-systemen/ \[2013-08-09].
 
 - Bäumer, M., Malys, B. & Wosko, M. (2004). Lernplattformen für den universitären Einsatz. In: K. Fellbaum & M. Göcks (Hrsg.), eLearning an der Hochschule, Aachen: Shaker Verlag, 121-140.

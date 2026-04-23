@@ -3,6 +3,8 @@
 <!-- filename: 06_Massive_Open_Online_Courses_MOOCs.md -->
 <!-- title: Massive Open Online Courses (MOOCs) -->
 
+<!-- revisor: Eva Benedikt-->
+
 Sogenannte ‚Massive Open Online Courses‘ (siehe auch Kapitel #offeneslernen) haben – wie wenige Trends zuvor – innerhalb
 kurzer Zeit große Aufmerksamkeit errungen. Darunter werden frei zugängliche Online-Kurse verstanden, an denen sich sehr
 viele Lernende beteiligen können, und die häufig mit multimedialen Inhalten angeboten werden. Die Anzahl der
