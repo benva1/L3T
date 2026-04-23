@@ -7,6 +7,8 @@
 
 - Bäumer, M., Malys, B. & Wosko, M. (2004). Lernplattformen für den universitären Einsatz. In: K. Fellbaum & M. Göcks (Hrsg.), eLearning an der Hochschule, Aachen: Shaker Verlag, 121-140.
 
+- Buchem, I., Tur, G., & Salinas, J. (2020). Designing for ownership in technology-enhanced learning (TEL): A core element for learners’ Srl and Agency. In: Interaction Design and Architecture(s), (45), 5–14. https://doi.org/10.55612/s-5002-045-001psi
+
 - Carson, S. & Schmidt, J. (2012). The Massive Open Online Professor Academic Matter. In: Journal of higher education . [http://www.academicmatters.ca/2012/05/the-massive-open-online-](http://www.academicmatters.ca/2012/05/the-massive-open-online-) professor/ \[2013-08-18]
 
 - Daalsgard, C. (2006). Social software: E-learning beyond learning management systems. In: European Journal of Open, distance and e-learning, URL: [http://www.eurodl.org/materials/contrib/2006/Christian\_Dalsgaard.htm](http://www.eurodl.org/materials/contrib/2006/Christian\_Dalsgaard.htm) \[2013-08-17]
