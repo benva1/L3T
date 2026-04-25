@@ -15,7 +15,7 @@ wesentlich einfacher gestrickt: Neben einer Kursadministration, einer Benutzer/i
 Kommunikationswerkzeugen gibt es ein enges Korsett, in dem Kursinhalte zur Verfügung gestellt werden können: Bei
 Coursera, eine der bekanntesten MOOC-Plattformen, wird zum Beispiel ein Kurs in sequentielle Lerneinheiten aufgeteilt,
 die meistens mittels Video nacheinander präsentiert werden. Die Länge der Aufnahmen variiert dabei, liegt jedoch meist
-bei maximal 15 Minuten. Meist gibt es nach einer Lerneinheit eine Überprüfung des Lernfortschritts, die in der Regel als
+bei maximal 15 Minuten. Beim überwiegenden Teil der Lerneinheiten gibt es eine Überprüfung des Lernfortschritts, die in der Regel als
 Multiple-Choice-Test durchgeführt wird. Zum Schluss werden die Ergebnisse zusammengezählt und den Lernenden im
 Erfolgsfall ein Zertifikat überreicht. Diese Art von MOOCs inklusive der nötigen Systeme wird in der Literatur als
 xMOOC (Wedekind, 2013) bezeichnet. xMOOCs sind an regulären Universitäten und Hochschulen besonders in den USA weit

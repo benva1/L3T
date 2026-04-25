@@ -21,7 +21,7 @@ wird das persönliche Wissensmanagement unterstützt, indem eigene virtuelle Dok
 Immer häufiger werden jedoch Mashup-Technologien eingesetzt. Eine PLE stellt dann eine technologische Basis dar, mit
 Anwendungen und Diensten, die Lernende nach Verfügbarkeit (zum Beispiel in Form von Widgets) beliebig hinzufügen können.
 Potenziell stehen den Lernenden dabei Ressourcen und Anwendungen des gesamten Webs zur Verfügung, und natürlich hat auch
-in diesem Bereich GenAI Einzug gehalten. Folgende Funktionsbereiche einer PLE können unterschieden werden:
+in diesem Bereich Künstliche Intelligenz Einzug gehalten. Folgende Funktionsbereiche einer PLE können unterschieden werden:
 
 - individuelle Abonnements von Quellen und Ressourcen sowie Präsentation der Inhalte
 - Zugänge zur persönlichen Kommunikation und Netzwerkpflege
@@ -51,7 +51,8 @@ Webanwendungen und Ressourcen auch zu kennen und nutzen zu können. Dies ist als
 
 ### !
 
-Eine PLE ist eine hochgradig individualisierbare Plattform, bei der die Lernenden bestimmen, welche Inhalte sie angezeigt bekommen und welche Tools sie verwenden.
+Eine PLE ist eine hochgradig individualisierbare Plattform, bei der die Lernenden bestimmen, welche Inhalte sie
+angezeigt bekommen und welche Tools sie verwenden.
 
 </blockquote>
 
@@ -59,13 +60,20 @@ Eine PLE ist eine hochgradig individualisierbare Plattform, bei der die Lernende
 
 ### ?
 
-Bitte recherchieren Sie nach aktuellen Tools, die als PLE bezeichnet werden können und analysieren Sie welche Funktionalitäten diese anbieten. In welcher Weise könnten Sie mit diesen Anwendungen Ihr eigenes Lernen unterstützen?
+Bitte recherchieren Sie nach aktuellen Tools, die als PLE bezeichnet werden können und analysieren Sie welche
+Funktionalitäten diese anbieten. In welcher Weise könnten Sie mit diesen Anwendungen Ihr eigenes Lernen unterstützen?
 
 </blockquote>
 
 
 ## Auswirkungen auf die Gestaltung des Lernens und Lehrens
 
-Diese Systeme halten grundsätzlich das, was sie versprechen: Sie sind in höchstem Grade personalisierbar und Lernende können ihre individuelle Sicht selbst einstellen. Dies bringt mit sich, dass auch gänzlich neue Kompetenzen seitens der Lernenden gefordert sind.
+Diese Systeme halten grundsätzlich das, was sie versprechen: Sie sind in höchstem Grade personalisierbar und Lernende
+können ihre individuelle Sicht selbst einstellen. Dies bringt mit sich, dass auch gänzlich neue Kompetenzen seitens der
+Lernenden gefordert sind.
 
-Selbstgesteuertes Lernen spielt eine zentrale Rolle und muss eingefordert werden. Darüber hinaus ist das Unterrichten mit solchen Systemen ebenfalls eine Herausforderung, da es ja keine einheitliche Sicht mehr auf die Inhalte gibt und alle selbst die benötigten Kommunikationswerkzeuge wählen können. Die Nachvollziehbarkeit von Leistungen erreicht hier also völlig neue Dimensionen und muss überdacht werden. Hierzu versprechen aber Methoden aus dem Bereich Learning Analytics (zum Beispiel die Erfassung von Datenspuren innerhalb einer Umgebung) Abhilfe zu schaffen (siehe Kapitel #analyse).
+Selbstgesteuertes Lernen spielt eine zentrale Rolle und muss eingefordert werden. Darüber hinaus ist das Unterrichten
+mit solchen Systemen ebenfalls eine Herausforderung, da es ja keine einheitliche Sicht mehr auf die Inhalte gibt und
+alle selbst die benötigten Kommunikationswerkzeuge wählen können. Die Nachvollziehbarkeit von Leistungen erreicht hier
+also völlig neue Dimensionen und muss überdacht werden. Hierzu versprechen aber Methoden aus dem Bereich Learning
+Analytics (zum Beispiel die Erfassung von Datenspuren innerhalb einer Umgebung) Abhilfe zu schaffen (siehe Kapitel #analyse).

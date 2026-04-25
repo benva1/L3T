@@ -8,10 +8,11 @@
 Abschließend wollen wir noch einen Ausblick geben, wie die zukünftigen Entwicklungen von Lehr- und Lernsystemen aussehen
 könnten. Insbesondere scheinen zwei davon sehr interessant zu sein:
 
-1. AI: Künstliche Intelligenz wie beispielweise ChatGPT oder Gemini bringen viele Möglichkeiten, um das Lernen noch
+1. KI: Künstliche Intelligenz wie beispielweise ChatGPT oder Gemini bringen viele Möglichkeiten, um das Lernen noch
 personalisierter und aktivierender zu machen. Individuelles und sofortiges Feedback könnte hiermit realisiert werden.
-Allerdings kommen mit dem Einsatz von AI auch ethische Fragen hinzu, wie die Sicherheit der Daten, oder die Richtigkeit
-und Vollständigkeit (Alshahrani & Qureshi, 2024). 
+Allerdings kommen mit dem Einsatz von KI auch ethische Fragen hinzu, wie die Sicherheit der Daten, oder die Richtigkeit
+und Vollständigkeit (Alshahrani & Qureshi, 2024). Es ist vorstellbar, dass KI einen großen Einfluss auf allen hier
+vorgestellten Systeme haben wird. 
 2. Empfehlungsalgorithmen: Angesichts der rasch wachsenden Informationen, Dienste und Ressourcen im Web wird es für
 Lernende immer schwieriger, die passenden erwünschten Informationen zu einem bestimmten Thema zu finden. Es liegt nahe,
 dass Systeme die passenden Informationen und Ressourcen vorschlagen sollten. Empfehlungssysteme werden in vielen
@@ -28,6 +29,7 @@ Lernenden bestmöglich Lernressourcen zu empfehlen (Taraghi et al., 2013).
 
 ### ?
 
-Sie wollen einen Online-Kurs durchführen? Beschreiben Sie das Kursziel, die Kursinhalte und das didaktische Konzept. Wählen Sie danach einen geeigneten Plattform-Typ aus und begründen Sie Ihre Auswahl.
+Sie wollen einen Online-Kurs durchführen? Beschreiben Sie das Kursziel, die Kursinhalte und das didaktische Konzept.
+Wählen Sie danach einen geeigneten Plattform-Typ aus und begründen Sie Ihre Auswahl.
 
 </blockquote>
