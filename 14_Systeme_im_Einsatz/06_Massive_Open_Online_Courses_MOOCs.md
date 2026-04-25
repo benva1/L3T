@@ -25,6 +25,8 @@ Harvard verwendet, um die Online-Variante ihrer Kurse von den Originalkursen zu 
 xMOOCs werden derzeit meistens von Hochschulen und Universitäten in Einsatz genommen, wiewohl es auch vereinzelte
 Beispiele gibt, die von Privatpersonen oder Vereinen angeboten werden. Coursera, Udacity, FutureLearn und edX sind die
 größten xMOOC-Plattformen im englischsprachigen Raum, während unter anderen iversity versucht, in D-A-CH Fuß zu fassen.
+Außerdem gibt es auch die österreichische Plattform iMOOX, die kostenlose und aufgrund von Creative-Commons-Lizenzen
+(siehe Kapitel #openness) auch weiterverwendbare Kurse und Inhalte auf Hochschul-Niveau anbietet. 
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
