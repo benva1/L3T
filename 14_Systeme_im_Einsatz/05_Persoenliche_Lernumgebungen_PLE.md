@@ -3,7 +3,6 @@
 <!-- filename: 05_Persoenliche_Lernumgebungen_PLE.md -->
 <!-- title: Persönliche Lernumgebungen (PLE) -->
 
-<!-- revisor: Eva Benedikt -->
 
 Mit der Entwicklung und dem wachsenden Erfolg von partizipativen Anwendungen im Internet gewann mit sogenannten
 persönlichen Lernumgebungen (engl. ‚personal learning environment‘, PLE) ein neues Konzept an Aufmerksamkeit.

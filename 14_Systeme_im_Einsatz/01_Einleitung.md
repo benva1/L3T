@@ -3,7 +3,6 @@
 <!-- filename: 01_Einleitung.md -->
 <!-- title: Einleitung -->
 
-<!-- revisors: Eva Benedikt -->
 
 Rahmenbedingungen und Lehrmittel beeinflussen und gestalten implizit Lernprozesse: Mit einem Buch unterrichte ich anders
 als mit einer Tafel, in einem Stuhlkreis anders als in einem Hörsaal. Auch Technologien wirken sich auf den Unterricht

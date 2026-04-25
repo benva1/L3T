@@ -3,7 +3,6 @@
 <!-- filename: 04_E-Portfolio-Systeme.md -->
 <!-- title: E-Portfolio-Systeme -->
 
-<!-- revisors: Eva Benedikt -->
 
 E-Portfolios sind, wie die Bezeichnung schon sagt, die elektronische Form von Portfolios. Das Ziel eines E-Portfolios
 ist die Lernenden zu unterstützen, durch die elektronischen Medien (wobei dies heute fast ausschließlich mit

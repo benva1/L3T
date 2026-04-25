@@ -3,8 +3,6 @@
 <!-- filename: 03_Lernmanagementsysteme.md -->
 <!-- title: Lernmanagementsysteme -->
 
-<!-- revisors: Eva Benedikt -->
-
 Durch die steigenden Bedürfnisse der WBT nach gezielter Benutzer/innen-Verwaltung oder einer allumfassenden Umgebung
 wurde um die Jahrtausendwende begonnen, sogenannte Lernmanagementsysteme (engl. ‚learning management system‘, LMS) zu
 programmieren.

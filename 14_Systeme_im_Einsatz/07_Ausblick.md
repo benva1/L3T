@@ -3,7 +3,6 @@
 <!-- filename: 07_Ausblick.md -->
 <!-- title: Ausblick -->
 
-<!-- revisor: Eva Benedikt-->
 
 Abschließend wollen wir noch einen Ausblick geben, wie die zukünftigen Entwicklungen von Lehr- und Lernsystemen aussehen
 könnten. Insbesondere scheinen zwei davon sehr interessant zu sein:
